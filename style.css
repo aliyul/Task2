@@ -53,15 +53,15 @@ nav ul li a {
 }
 
 .column1{
-  
+width: 50%;
 }
 .column2 {
-    width: 55%;
+    width: 50%;
 }
 .user-box{
-    background: #f7efef;
+    background: #f7efef00;
     position: absolute;
-    top: 0;
+    top: 25px;
     right: 12%;
     
 }
@@ -78,7 +78,7 @@ nav ul li a {
 
 .user-box1 {
     position: absolute;
-    top: 0;
+    top: 25px;
     right: 11%;
     z-index: 1;
 }
@@ -97,7 +97,7 @@ nav ul li a {
 
 .user-box2 {
     position: absolute;
-    top: 0;
+    top: 25px;
     right: 7%;
     z-index: 1;
 }
@@ -116,7 +116,7 @@ nav ul li a {
 
 .user-box3 {
     position: absolute;
-    top: 0;
+    top: 25px;
     right: 20%;
     z-index: 1;
 }
