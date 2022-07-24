@@ -10,7 +10,7 @@ font-family: 'Poppins', san-serif;
     width: 100%;
     height: 100%;
     padding: 0 10%;
-    background: #f7efef;
+    /*background: #f7efef;*/
 }
 
 nav{
@@ -131,4 +131,5 @@ width: 50%;
     height: 350px;
     max-width: 100%;
         max-height: 100%;
+       
 }
